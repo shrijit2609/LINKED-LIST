@@ -1,0 +1,43 @@
+Illustrative sample session (abbreviated)
+
+================================
+   LINKED LIST MANAGEMENT SYSTEM
+================================
+1. Singly Linked List
+2. Doubly Linked List
+3. Compare Singly vs Doubly Linked List
+4. Exit
+Enter your choice: 1
+
+--- Singly Linked List ---
+1. Insert at beginning
+2. Insert at end
+3. Insert at position
+4. Insert after a node
+5. Insert before a node
+6. Delete from beginning
+7. Delete from end
+8. Delete from position
+9. Delete by value
+10. Search
+11. Update
+12. Display
+13. Count nodes
+14. Find maximum
+15. Find minimum
+16. Find middle
+17. Reverse
+18. Sort
+19. Remove duplicates
+20. Return to main menu
+
+Enter choice: 2
+Value: 40
+Current list: 40 -> NULL
+
+Enter choice: 2
+Value: 10
+Current list: 40 -> 10 -> NULL
+
+Enter choice: 12
+40 -> 10 -> NULL
